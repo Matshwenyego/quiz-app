@@ -50,7 +50,7 @@ export default function QuestionCard(props) {
           disabled={!value}
           onClick={handleSubmit}
           fullWidth
-          variant="outlined"
+          variant="outline"
           size="small"
         >
           Submit
