@@ -28,7 +28,7 @@ export default function ResultsCards(props) {
         </Typography>
       </CardContent>
       <CardActions sx={styles.button}>
-        <Button onClick={restartQuiz} variant="outlined">
+        <Button onClick={restartQuiz} variant="outline">
           Retry
         </Button>
       </CardActions>
