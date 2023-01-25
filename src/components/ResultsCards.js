@@ -18,7 +18,7 @@ export default function ResultsCards(props) {
   }, [answers]);
 
   return (
-    <Card variant="outlined" sx={styles.container}>
+    <Card variant="outline" sx={styles.container}>
       <CardContent>
         <Typography sx={styles.text} variant="h4" color="text.primary">
           Result
