@@ -26,7 +26,7 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <div>
       <CssBaseline />
       <Box sx={styles.box}>
         <Container maxWidth="sm">
